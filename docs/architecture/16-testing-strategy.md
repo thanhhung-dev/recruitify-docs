@@ -74,4 +74,4 @@ void whenRegisteringUser_itShouldHashThePassword() {
 ```
 
 ---
-
+

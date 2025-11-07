@@ -95,7 +95,7 @@ All critical business logic in both the frontend and backend must be covered by 
     *   **Goal:** Establish the foundational infrastructure of the application and deliver the core job search experience for the primary user (Job Seeker). This includes project setup, user registration/login, and the ability to search, view, and save jobs.
 *   **Epic 2: Employer Functionality & Application Workflow.**
     *   **Goal:** Introduce the employer side of the platform and connect the two user types. This epic enables employers to post and manage jobs, and allows job seekers to submit applications.
-*   **Epic 3: Dashboard & History.**
+*   **Erpic 3: Dashboad & History.**
     *   **Goal:** Enhance the user experience by providing tools for management and tracking. This includes the job seeker's application history and the employer's dashboard for managing applicants.
 
 ---
